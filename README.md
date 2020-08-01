@@ -1,1 +1,3 @@
-# swift-app-foundation
+# SwiftAppFoundation
+
+A description of this package.
